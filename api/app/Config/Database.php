@@ -32,9 +32,9 @@ class Database extends \CodeIgniter\Database\Config
 	public $writeDB = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
-		'username' => '',
+		'username' => 'root',
 		'password' => '',
-		'database' => '',
+		'database' => 'savsoftquizv6',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
