@@ -1,5 +1,5 @@
-var api_base_url="https://YOUR-DOMAINNAME/api/public/";
-var api_site_url="https://YOUR-DOMAINNAME/api/public/index.php/";
+var api_base_url="http://localhost/savsoftquizv6.0/api/public/";
+var api_site_url="http://localhost/savsoftquizv6.0/api/public/index.php/";
 // 0 for disabled 1 for enabled
 var debug_mode=0;
 var user_data;
